@@ -1,0 +1,10 @@
+// Rough Notes
+
+With the inital code being given, implementing superclasses, most of the classes inheriting 
+the attributes are over-writing what is being inherited.
+This leads to losing the benefits of reusability in inheritance, and subsequently - more code duplication.
+
+With the inheritance method, we can also accidentally implement unintended side-effects to the subclasses, through 
+a change in the superclass.
+
+Behavious won't be assigned to the subclass until compile time.
