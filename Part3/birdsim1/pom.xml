@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>gla.cs.joose.coursework</groupId>
-  <artifactId>birdsim1</artifactId>
+  <artifactId>birsim1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>birdsim1</name>
+  <name>birsim1</name>
   <url>http://maven.apache.org</url>
 
   <properties>
